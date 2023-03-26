@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <id>205</id>
+  <name>Fedor</name>
+  <lastName>Dou</lastName>
+  <age>24</age>
+  <access>
+    <library>true</library>
+    <gym>false</gym>
+    <hostel>true</hostel>
+  </access>
+  <summary>
+    <facultet>technical</facultet>
+    <course>3</course>
+    <curator>Alis Smith</curator>
+  </summary>
+  <personal>
+    <hostel_number>7</hostel_number>
+    <hostel_room>205</hostel_room>
+  </personal>
+</root>

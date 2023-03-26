@@ -1,0 +1,22 @@
+{
+    "id":"205",
+    "name":"Fedor",
+    "lastName":"Dou",
+    "age":"24",
+
+    "access":{
+        "library":"true",
+        "gym":"false",
+        "hostel":"true"
+    },
+    "summary":{
+        "facultet":"technical",
+        "course":"3",
+        "curator":"Alis Smith"
+    },
+
+    "personal":{
+            "hostel_number":"7",
+            "hostel_room":"205
+    }
+}
